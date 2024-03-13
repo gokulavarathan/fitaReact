@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fitaReact/static/css/main.a7a706c6.css",
+    "main.js": "/fitaReact/static/js/main.554a0c27.js",
+    "static/js/592.c6b52eba.chunk.js": "/fitaReact/static/js/592.c6b52eba.chunk.js",
+    "static/media/logo.svg": "/fitaReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fitaReact/index.html",
+    "main.a7a706c6.css.map": "/fitaReact/static/css/main.a7a706c6.css.map",
+    "main.554a0c27.js.map": "/fitaReact/static/js/main.554a0c27.js.map",
+    "592.c6b52eba.chunk.js.map": "/fitaReact/static/js/592.c6b52eba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7a706c6.css",
+    "static/js/main.554a0c27.js"
+  ]
+}
